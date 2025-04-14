@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeeganKevern
 - 👀 I’m interested in becoming a full-stack lead web developer.
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Vue.js/Pinia
 - 📫 How to reach me: KeeganKevern.work@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Work History: I spent 2 years as a software tester in an electrionics/power generation/control systems R&D departement. I have taken the decision to pivot into web development and I'm excited to progress my career.
